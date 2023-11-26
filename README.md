@@ -1,6 +1,10 @@
 <div align="left">
-<h1 align="left"> 🌟 SurviDeath Network  🚀</h1>
-</div>
+<h1 align="left"> SurviDeath Network  🚀 </h1> 
+</div> 
+
+>![Logo_SDN (1)](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/8a435533-3f56-43f8-b974-df899e4255a9)
+
+
 
 ¡Bienvenido! Aquí encontrarás información detallada sobre mi antiguo proyecto de Minecraft que cofundé y desarrollé durante un año y medio.
 
