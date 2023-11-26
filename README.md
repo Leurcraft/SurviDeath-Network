@@ -36,3 +36,11 @@ funcionalidades **divertidas** que destacaron a SurviDeath Network en su momento
 
 Lamentablemente, hace 6 meses, decidimos cerrar SurviDeath. Aunque fue una **decisión difícil**, 
 este repositorio servirá para hablar de nuestra **dedicación** y **contribución** en este proyecto de Minecraft.
+
+## 📷 Imagenes del Proyecto
+
+![survideathnetworkimagenes](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/745a2792-db3f-4d31-86a9-d19174813815)
+
+**🚩 Banner Promocional Antiguo**
+
+![standard_2](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/739ef084-82df-4f52-af21-f3c727e49c02)
