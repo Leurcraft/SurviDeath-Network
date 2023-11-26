@@ -41,6 +41,7 @@ este repositorio servirá para hablar de nuestra **dedicación** y **contribuci�
 
 ![survideathnetworkimagenes](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/745a2792-db3f-4d31-86a9-d19174813815)
 
-**🚩 Banner Promocional Antiguo**
+**🚩 Banners Promocionales Antiguos**
 
+![standard](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/89d654d0-1b91-40af-999b-c41d2bc25750)
 ![standard_2](https://github.com/Leurcraft/SurviDeath-Network/assets/151481511/739ef084-82df-4f52-af21-f3c727e49c02)
